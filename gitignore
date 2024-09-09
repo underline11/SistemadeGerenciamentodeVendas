@@ -1,0 +1,9 @@
+Este projeto consiste na criação de um sistema de vendas utilizando SQL para a criação de banco de dados, tabelas, inserção de dados, consultas, atualizações e exclusões. O sistema gerencia informações de produtos, clientes e vendas, permitindo realizar operações básicas de uma aplicação de vendas.
+
+Objetivos:
+
+Criar um banco de dados chamado SistemaVendas.
+Criar tabelas para armazenar informações sobre produtos, clientes e vendas.
+Inserir dados de exemplo nas tabelas.
+Realizar operações CRUD (Create, Read, Update, Delete) no banco de dados.
+Executar consultas SQL para visualizar as informações de forma estruturada.
